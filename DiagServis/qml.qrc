@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DevicesPage.qml</file>
+        <file>DeviceDashboard.qml</file>
+        <file>DiagPage.qml</file>
+        <file>ActionsMenu.qml</file>
+        <file>TitleBlock.qml</file>
+        <file>CDButton.qml</file>
+        <file>DiagDeffectInputsDashboard.qml</file>
+        <file>DiagDeffectInputsPage.qml</file>
+        <file>main_copy.qml</file>
+        <file>ImageGallery.qml</file>
+    </qresource>
+</RCC>
